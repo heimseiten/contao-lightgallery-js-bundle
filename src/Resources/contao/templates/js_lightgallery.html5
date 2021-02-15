@@ -1,0 +1,6 @@
+<?php 
+  $GLOBALS['TL_CSS'][] = '/bundles/heimseitenlightgalleryjs/github/sachinchoolur/lightgallery.js/dist/css/lightgallery.min.css|static'; 
+  $GLOBALS['TL_HEAD'][] = '<script defer src="/bundles/heimseitenlightgalleryjs/github/sachinchoolur/lightgallery.js/dist/js/lightgallery.min.js"></script>'; 
+  $GLOBALS['TL_HEAD'][] = '<script defer src="/bundles/heimseitenlightgalleryjs/github/sachinchoolur/lg-video.js/dist/lg-video.min.js"></script>';
+  $GLOBALS['TL_HEAD'][] = '<script defer src="/bundles/heimseitenlightgalleryjs/settings.js"></script>';
+?>
