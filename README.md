@@ -1,4 +1,4 @@
-# Contao lightgallery.js
+# lightgallery.js for Contao
 
 Adds lightgallery.js with video support. 
 
