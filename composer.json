@@ -2,10 +2,11 @@
     "name": "heimseiten/contao-lightgallery-js-bundle",
     "description": "Adds lightgallery.js with video support. Commercial licencing: https://sachinchoolur.github.io/lightgallery.js/docs/license.html",
     "keywords": [
-        "contao",
-        "bundle",
-        "tag 3",
-        "tag 4"
+        "lightbox",
+        "modal",
+        "modalbox",
+        "gallery",
+        "galerie"
     ],
     "type": "contao-bundle",
     "license": "GPL-3.0-or-later",
