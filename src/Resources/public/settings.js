@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) {   
 
   var html_elements = document.querySelectorAll('a[target="lightbox"]')
-  var image_elements = document.querySelectorAll('.ce_gallery, .image_container')
+  var image_elements = document.querySelectorAll('.ce_gallery, .images, .image_container')
   
   image_elements.forEach(function(element, index, array) {
     lightGallery(element, {
