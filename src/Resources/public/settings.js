@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
       getCaptionFromTitleOrAlt: false,
       selector: '.item, [data-lightbox]',
       mode: 'lg-fade',
+      licenseKey: '00000-00000-00000-00000',
     })
   })
 
